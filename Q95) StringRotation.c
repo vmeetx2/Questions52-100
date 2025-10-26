@@ -8,3 +8,6 @@ int main()
     if(strstr(temp,b))printf("Yes");
     else printf("No");
 }
+
+
+//a bit non intuitive logic, but a+a contains string, so thats our solution, but edge cases where strlen varies will have to be more complex but, problem statement was very simple
