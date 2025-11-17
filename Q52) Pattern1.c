@@ -1,4 +1,30 @@
-#include <stdio.h>
+
+
+🔄
+Q52 (Nested Loops without Arrays/Strings)
+Write a program to print the following pattern:
+
+*
+
+*
+*
+*
+
+*
+*
+*
+*
+*
+
+*
+*
+*
+
+*
+
+    
+    
+    #include <stdio.h>
 int main()
 {
     int i,j;
