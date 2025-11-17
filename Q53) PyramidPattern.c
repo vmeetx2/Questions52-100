@@ -11,3 +11,17 @@ int main()
         printf("\n");
     }
 }
+
+
+🔄
+Q53 (Nested Loops without Arrays/Strings)
+Write a program to print the following pattern:
+*
+***
+*****
+*******
+*********
+*******
+*****
+***
+*
