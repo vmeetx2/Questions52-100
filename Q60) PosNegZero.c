@@ -11,3 +11,5 @@ int main()
     }
     printf("Positive=%d, Negative=%d, Zero=%d",p,ne,z);
 }
+
+//Qu) take user input and count every pos or neg value
