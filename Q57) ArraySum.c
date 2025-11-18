@@ -7,3 +7,5 @@ int main()
     for(i=0;i<n;i++)s+=a[i];
     printf("%d",s);
 }
+
+//Qu) loop to read and sum all elements
