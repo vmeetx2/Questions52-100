@@ -9,3 +9,6 @@ int main()
     if(f!=-1)printf("Found at index %d",f);
     else printf("-1");
 }
+
+
+//linear search, edge case result = -1
