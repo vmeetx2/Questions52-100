@@ -11,3 +11,5 @@ int main()
     n++;
     for(i=0;i<n;i++)printf("%d ",a[i]);
 }
+
+//qu) insert element in sorted array
