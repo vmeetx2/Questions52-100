@@ -13,3 +13,4 @@ int main()
         }
     }
 }
+//every posisble substring , taking back index moving along
